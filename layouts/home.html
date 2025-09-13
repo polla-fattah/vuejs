@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}guides/example-guide/" role="button">{{ i18n "get_started" }}</a>
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/weekly-plan/" role="button">View Weekly Plan</a>
       {{ .Content }}
     </div>
   </div>
@@ -23,21 +23,59 @@
   <section class="section section-md section-features">
     <div class="container">
       <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Update content</h2>
-          <p>Edit <code>content/_index.md</code> to see this page change.</p>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">📅 Weekly Plan</h3>
+              <p class="card-text">Detailed weekly schedule with topics, assignments, and deadlines.</p>
+              <a href="/weekly-plan/" class="btn btn-outline-primary btn-sm">View Schedule</a>
+            </div>
+          </div>
         </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Add new content</h2>
-          <p>Add Markdown files to <code>content</code> to create new pages.</p>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">🎯 Capstone Projects</h3>
+              <p class="card-text">Real-world projects to showcase your skills and build your portfolio.</p>
+              <a href="/capstone-projects/" class="btn btn-outline-primary btn-sm">View Projects</a>
+            </div>
+          </div>
         </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Configure your site</h2>
-          <p>Edit your config in <code>config/_default/params.toml</code>.</p>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">📚 GitHub Policy</h3>
+              <p class="card-text">Guidelines for using GitHub for assignments and collaboration.</p>
+              <a href="/github-policy/" class="btn btn-outline-primary btn-sm">Read Policy</a>
+            </div>
+          </div>
         </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Read the docs</h2>
-          <p>Learn more in the <a href="https://getdoks.org/">Docs</a>.</p>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">📝 Quizzes</h3>
+              <p class="card-text">Regular assessments to test your understanding of course material.</p>
+              <a href="/quizzes/" class="btn btn-outline-primary btn-sm">Take Quiz</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">📖 Resources</h3>
+              <p class="card-text">Essential readings, tutorials, and reference materials.</p>
+              <a href="/resources/" class="btn btn-outline-primary btn-sm">Browse Resources</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h5 card-title">📋 Assignments</h3>
+              <p class="card-text">Hands-on exercises and coding assignments to practice skills.</p>
+              <a href="/assignments/" class="btn btn-outline-primary btn-sm">View Assignments</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -50,8 +88,10 @@
 <section class="section section-md container-fluid bg-light">
   <div class="row justify-content-center text-center">
     <div class="col-lg-7">
-      <h2 class="mt-2">Start building with Doks today</h2>
-      <a class="btn btn-primary rounded-pill px-4 my-2" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
+      <h2 class="mt-2">Ready to Start Learning?</h2>
+      <p class="lead">Begin your journey in modern web development with Vue.js</p>
+      <a class="btn btn-primary rounded-pill px-4 my-2" href="/weekly-plan/" role="button">View Course Schedule</a>
+      <a class="btn btn-outline-primary rounded-pill px-4 my-2 ms-2" href="/github-policy/" role="button">GitHub Guidelines</a>
     </div>
   </div>
 </section>

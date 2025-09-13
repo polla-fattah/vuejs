@@ -29,15 +29,39 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
-# url = "/docs/1.0/prologue/introduction/"
+  name = "Weekly Plan"
+  url = "/weekly-plan/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Weeks"
+  url = "/weeks/"
+  weight = 15
+
+[[main]]
+  name = "Assignments"
+  url = "/assignments/"
+  weight = 20
+
+[[main]]
+  name = "Capstone Projects"
+  url = "/capstone-projects/"
   weight = 30
+
+[[main]]
+  name = "Quizzes"
+  url = "/quizzes/"
+  weight = 40
+
+[[main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 50
+
+[[main]]
+  name = "GitHub Policy"
+  url = "/github-policy/"
+  weight = 60
 
 # [[social]]
 #   name = "Twitter"

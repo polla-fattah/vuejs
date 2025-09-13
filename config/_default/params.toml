@@ -1,6 +1,6 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Web Application Development Course"
+description = "Comprehensive coursebook for modern web development using Vue.js and modern technologies"
 images = ["cover.png"]
 
 # mainSections
