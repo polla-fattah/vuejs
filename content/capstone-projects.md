@@ -14,10 +14,10 @@ The capstone project is a comprehensive task management application called **Vue
 
 ## Project Timeline
 
-- **Project Kickoff**: Week 3 (January 29 - February 2, 2024)
-- **Development Phase**: Weeks 3-11 (January 29 - March 30, 2024)
-- **Final Submission**: Week 11 (March 30, 2024)
-- **Final Exam**: Week 15 (April 25, 2024)
+- **Project Kickoff**: Week 3 (September 21-27, 2025)
+- **Development Phase**: Weeks 3-11 (September 21 - November 22, 2025)
+- **Final Submission**: Week 11 (November 22, 2025)
+- **Final Exam**: Week 15 (December 20, 2025)
 
 ## Project Requirements
 

@@ -217,10 +217,10 @@ DATABASE_URL=your_database_url
 
 ## Important Dates
 
-- **GitHub Account Setup**: Due by January 22, 2024
-- **First Assignment Submission**: January 29, 2024
-- **Midterm Project**: March 15, 2024
-- **Final Capstone Project**: April 16, 2024
+- **GitHub Account Setup**: Due by September 20, 2025
+- **First Assignment Submission**: September 27, 2025
+- **Midterm Project**: November 8, 2025
+- **Final Capstone Project**: November 22, 2025
 
 ## Contact Information
 

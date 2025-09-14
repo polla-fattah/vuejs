@@ -6,11 +6,15 @@ lastmod: 2024-01-15T16:33:54+02:00
 draft: false
 ---
 
-# Resources and References
 
-## Book Chapter Alignment
 
 ### Weekly Reading Schedule
+
+Our primary textbook is [*Vue.js 3 for Beginners* by Simone Cuomo](/vuejs/Vue.js.pdf) (Packt Publishing, 2024). This comprehensive guide covers all essential Vue 3 concepts and serves as the foundation for our weekly readings. The book is available in both eBook and paperback formats through the publisher's website or major book retailers.
+
+### Course Materials
+
+
 - **W1:** Ch.1–2 (+ TypeScript from Vue docs)
 - **W2:** Ch.3–4
 - **W3:** Ch.10
@@ -83,22 +87,6 @@ draft: false
 - **[Vue Test Utils](https://test-utils.vuejs.org/)** - Vue.js testing utilities
 - **[Jest Documentation](https://jestjs.io/docs/getting-started)** - JavaScript testing framework
 - **[Testing Best Practices](https://testingjavascript.com/)** - Testing strategies and patterns
-
-## Online Tutorials and Courses
-
-### Free Resources
-- **[freeCodeCamp](https://www.freecodecamp.org/)** - Free coding bootcamp
-- **[Codecademy](https://www.codecademy.com/)** - Interactive coding lessons
-- **[W3Schools](https://www.w3schools.com/)** - Web development tutorials
-- **[Khan Academy](https://www.khanacademy.org/computing/computer-programming)** - Programming fundamentals
-- **[The Odin Project](https://www.theodinproject.com/)** - Full-stack web development curriculum
-
-### Paid Resources
-- **[Vue Mastery](https://www.vuemastery.com/)** - Professional Vue.js courses
-- **[Frontend Masters](https://frontendmasters.com/)** - Advanced frontend courses
-- **[Pluralsight](https://www.pluralsight.com/)** - Technology skill development
-- **[Udemy](https://www.udemy.com/)** - Online courses on various topics
-- **[Coursera](https://www.coursera.org/)** - University-level courses
 
 ## Reference Materials
 
@@ -214,26 +202,3 @@ draft: false
 - **[WebPageTest](https://www.webpagetest.org/)** - Website performance testing
 - **[GTmetrix](https://gtmetrix.com/)** - Website speed testing
 
-## University Resources
-
-### Library Resources
-- **Computer Science Section** - Physical and digital books
-- **Online Databases** - Academic journals and papers
-- **Study Rooms** - Quiet spaces for group work
-- **Research Assistance** - Librarian support for projects
-
-### Computer Labs
-- **Lab Hours**: Monday-Friday 8:00 AM - 10:00 PM
-- **Software Available**: VS Code, Git, Node.js, modern browsers
-- **Printing Services**: Available for documentation and reports
-- **Technical Support**: Lab assistants available during peak hours
-
-### Academic Support
-- **Tutoring Center**: Peer tutoring for programming concepts
-- **Writing Center**: Help with technical documentation
-- **Career Services**: Resume building and job search assistance
-- **Academic Advising**: Course planning and career guidance
-
----
-
-*This resource list is regularly updated. If you find additional helpful resources, please share them with the class!*

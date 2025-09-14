@@ -1,0 +1,40 @@
+---
+title: "Week 8 - Reading Notes"
+description: "Reading notes and key concepts for Week 8"
+date: 2025-10-26T00:00:00+02:00
+lastmod: 2025-10-26T00:00:00+02:00
+draft: false
+weight: 108
+toc: true
+seo:
+  title: "Week 8 - Reading Notes"
+  description: "Reading notes and key concepts for Week 8"
+  canonical: ""
+  noindex: false
+---
+
+# Week 8 - Reading Notes
+
+## Key Concepts
+
+*Add your reading notes and key concepts here*
+
+## Important Points
+
+*Add important points from lectures and readings*
+
+## Questions & Clarifications
+
+*Add any questions or areas that need clarification*
+
+## Additional Resources
+
+*Add links to additional resources, articles, or documentation*
+
+## Practice Exercises
+
+*Add notes from practice exercises and coding examples*
+
+---
+
+**Back to [Week 8 Plan](w8/)**

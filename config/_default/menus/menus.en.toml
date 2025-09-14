@@ -29,14 +29,9 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Weekly Plan"
-  url = "/weekly-plan/"
-  weight = 10
-
-[[main]]
-  name = "Weeks"
+  name = "Plan"
   url = "/weeks/"
-  weight = 15
+  weight = 10
 
 [[main]]
   name = "Assignments"

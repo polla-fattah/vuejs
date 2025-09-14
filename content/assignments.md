@@ -15,7 +15,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ## Lab Activity Schedule
 
 ### W1 Lab: "Hello, Name!" + Counter
-**Due**: January 19, 2024
+**Due**: September 13, 2025
 **Topics**: TypeScript in Vue, SFC anatomy, reactivity primer
 
 #### Requirements
@@ -32,7 +32,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W2 Lab: Reusable Card with Slots
-**Due**: January 26, 2024
+**Due**: September 20, 2025
 **Topics**: Props & emits (typed contracts), slots (named & scoped)
 
 #### Requirements
@@ -49,7 +49,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W3 Lab: Multi-page Scaffold
-**Due**: February 2, 2024
+**Due**: September 27, 2025
 **Topics**: Vue Router, static/dynamic/nested routes, layouts
 
 #### Requirements
@@ -66,7 +66,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W4 Lab: Login Form + Mini Todo
-**Due**: February 9, 2024
+**Due**: October 4, 2025
 **Topics**: Templates/directives, v-model, event handling
 
 #### Requirements
@@ -83,7 +83,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W5 Lab: Shopping Cart Pattern
-**Due**: February 16, 2024
+**Due**: October 11, 2025
 **Topics**: Pinia stores, state management, computed properties
 
 #### Requirements
@@ -100,7 +100,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W6 Lab: API Integration with Loading/Error
-**Due**: February 23, 2024
+**Due**: October 18, 2025
 **Topics**: fetch/Axios, onMounted, Suspense, error handling
 
 #### Requirements
@@ -117,7 +117,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W7 Lab: Filtered & Categorized Task Board
-**Due**: March 2, 2024
+**Due**: October 25, 2025
 **Topics**: computed for search/filter, watch vs watchEffect
 
 #### Requirements
@@ -134,7 +134,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W8 Lab: Validated Forms with Focus Management
-**Due**: March 9, 2024
+**Due**: November 1, 2025
 **Topics**: VeeValidate, custom rules, form accessibility
 
 #### Requirements
@@ -151,7 +151,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W9 Lab: Accessible Modal + Transitions
-**Due**: March 16, 2024
+**Due**: November 8, 2025
 **Topics**: Teleport, keep-alive, lifecycle hooks, transitions
 
 #### Requirements
@@ -168,7 +168,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W10 Lab: Component & Composable Tests
-**Due**: March 23, 2024
+**Due**: November 15, 2025
 **Topics**: Vitest, Vue Test Utils, testing patterns
 
 #### Requirements
@@ -185,7 +185,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W11 Lab: Performance + Deployment
-**Due**: March 30, 2024
+**Due**: November 22, 2025
 **Topics**: Lazy loading, bundle optimization, deployment
 
 #### Requirements
@@ -202,7 +202,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W12 Lab: Refactoring + CI
-**Due**: April 6, 2024
+**Due**: November 29, 2025
 **Topics**: Debugging, refactoring, CI basics
 
 #### Requirements
@@ -219,7 +219,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W13 Lab: Nuxt Sandbox OR Architecture Diagram
-**Due**: April 13, 2024
+**Due**: December 6, 2025
 **Topics**: SSR/SSG, Nuxt, architecture patterns
 
 #### Requirements
@@ -236,7 +236,7 @@ Weekly lab activities are hands-on exercises designed to reinforce the concepts 
 ---
 
 ### W14 Lab: Demo Rehearsal
-**Due**: April 20, 2024
+**Due**: December 13, 2025
 **Topics**: Project presentation, Q&A preparation
 
 #### Requirements
