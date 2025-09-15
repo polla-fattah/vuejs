@@ -1,5 +1,5 @@
 title = "Web Application"
-baseurl = "https://polla-fattah.github.io/vuejs/"
+baseurl = "https://polla-fattah.github.io/vuejs"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
