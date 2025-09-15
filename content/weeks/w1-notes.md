@@ -597,9 +597,6 @@ main().catch(e => console.error("Fatal:", e))
 > Next we can layer on: **modules & packaging best-practices**, **testing TypeScript** (Vitest), and then connect these foundations to **Vue’s Composition API** in Week 2+.
 
 
-
-
-
 ---
 
 **Back to [Week 1 Plan](../w1/)**
