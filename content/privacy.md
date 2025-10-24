@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Salahaddin University-Erbil"
 description: ""
 summary: ""
 date: 2023-09-07T17:19:07+02:00

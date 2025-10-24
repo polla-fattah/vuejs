@@ -21,6 +21,7 @@ seo:
 ## 0) How we run TypeScript this week
 
 ### Quick project scaffold (Node + TS)
+A
 ```bash
 mkdir ts-week1 && cd ts-week1
 npm init -y
