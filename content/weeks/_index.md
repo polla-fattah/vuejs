@@ -38,69 +38,68 @@ seo:
 
 Welcome to the Web Application Development course! This page provides an overview of all 15 weeks with direct links to detailed materials for each week.
 
-**Fall 2025 Semester**: September 7 - December 20, 2025
 
 ## Foundation Phase (W1-W3)
 
-**[W1 - TypeScript Kickoff](w1/)** (Sep 7-13, 2025)
+**[W1 - TypeScript Kickoff](w1/)**
 HTML/CSS/JS refresher + TypeScript in Vue
 
-**[W2 - Components](w2/)** (Sep 14-20, 2025)
+**[W2 - Components](w2/)**
 SFCs, props, emits, slots
 
-**[W3 - Routing](w3/)** (Sep 21-27, 2025)
+**[W3 - Routing](w3/)**
 Vue Router setup → **Capstone Kickoff**
 
 ## Core Development (W4-W8)
 
-**[W4 - Templates/Directives](w4/)** (Sep 28 - Oct 4, 2025)
+**[W4 - Templates/Directives](w4/)**
 v-bind, v-for, v-model → **Quiz 1**
 
-**[W5 - State Management](w5/)** (Oct 5-11, 2025)
+**[W5 - State Management](w5/)**
 Pinia stores and state sharing
 
-**[W6 - API Integration](w6/)** (Oct 12-18, 2025)
+**[W6 - API Integration](w6/)**
 Async patterns and Suspense
 
-**[W7 - Reactivity](w7/)** (Oct 19-25, 2025)
+**[W7 - Reactivity](w7/)**
 computed, watch, filtering
 
-**[W8 - Forms Validation](w8/)** (Oct 26 - Nov 1, 2025)
+**[W8 - Forms Validation](w8/)**
 VeeValidate and accessibility → **Quiz 2**
 
 ## Advanced Features (W9-W11)
 
-**[W9 - Advanced UI](w9/)** (Nov 2-8, 2025)
+**[W9 - Advanced UI](w9/)**
 Teleport, keep-alive, transitions
 
-**[W10 - Testing](w10/)** (Nov 9-15, 2025)
+**[W10 - Testing](w10/)**
 Vitest + Vue Test Utils
 
-**[W11 - Performance](w11/)** (Nov 16-22, 2025)
+**[W11 - Performance](w11/)**
 Optimization and deployment → **Final Capstone**
 
 ## Completion Phase (W12-W15)
 
-**[W12 - Debugging](w12/)** (Nov 23-29, 2025)
+**[W12 - Debugging](w12/)**
 DevTools and maintenance → **Quiz 3**
 
-**[W13 - SSR/Nuxt](w13/)** (Nov 30 - Dec 6, 2025)
+**[W13 - SSR/Nuxt](w13/)**
 Server-side rendering concepts
 
-**[W14 - Project Overview](w14/)** (Dec 7-13, 2025)
+**[W14 - Project Overview](w14/)**
 Final preparation
 
-**[W15 - Final Exam](w15/)** (Dec 14-20, 2025)
+**[W15 - Final Exam](w15/)**
 Theory + Practical assessment
 
 ---
 
 ## Important Dates
 
-**Quiz 1**: October 4, 2025 ([W4](w4/))
-**Quiz 2**: November 1, 2025 ([W8](w8/))
-**Quiz 3**: November 29, 2025 ([W12](w12/))
-**Final Exam**: December 20, 2025 ([W15](w15/))
+**Quiz 1**:  ([W4](w4/))
+**Quiz 2**:  ([W8](w8/))
+**Quiz 3**: ([W12](w12/))
+**Final Exam**: ([W15](w15/))
 
 ## Grading Breakdown
 
